@@ -18,8 +18,8 @@
   height: 500px; /*ALTURA*/
   background-color: white;
   animation-name: animation; 
-  animation-duration: 7s; /*tempode de animação*/
-  border-radius: 100%; /*circulo*/
+  animation-duration: 7s; /*tempo de animação*/
+  border-radius: 50%; /*circulo*/
   animation-delay: 1s; /*ANIMAR APOS*/
   animation-iteration-count: infinite; /* EX. animation-iteration-count: 3; ANIMAR 3 VEZES*/
 }
